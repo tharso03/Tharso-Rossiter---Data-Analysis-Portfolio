@@ -17,6 +17,8 @@ You can view my CV [here](./CAETharsoRossiter.pdf).
 * [The Complete SQL Bootcamp: Go from Zero to Hero](ude.my/UC-902e8147-e35b-420c-b5db-26bf03014cb5)
 * [Microsoft Power BI Desktop for Business Intelligence](ude.my/UC-52945b6e-4c51-4465-8daa-760a6c677660)
 * [Certificate of Advanced English](./CAETharsoRossiter.pdf)
+* [Graduate diploma (in Portuguese)](./diplomaTharsoRossiter.pdf)
+* [Cum Laude document (in Portuguese)](./laureaTharsoRossiter.pdf)
 
 # Get in touch
 
