@@ -20,7 +20,15 @@ The package is avaliable in [this repository](https://github.com/tharso03/ZINARp
 
 ## Power BI dashboards
 
-I created two dashoards as part of the assignments for completing the Microsoft Power BI Desktop for Business Intelligence. You can view them [here](https://github.com/tharso03/PowerBI).
+I created two dashboards as part of the Microsoft Power BI Desktop for Business Intelligence completion assignments. These dashboards are designed to monitor the sales performance of two fictitious store chains: Adventure Works and Maven Market.
+
+You can view them [here](https://github.com/tharso03/PowerBI).
+
+## Spam mail detection with R using Naive Bayes
+
+In this project, I extracted and cleaned email data and used Naive Bayes to detect spam emails in [this dataset](https://www.kaggle.com/datasets/veleon/ham-and-spam-dataset).
+
+You can view the code and comments on [this Kaggle notebook](https://www.kaggle.com/code/tharso03/spam-mail-detection-with-r-using-naive-bayes) or [this GitHub repo](https://github.com/tharso03/spam-detection-naive-bayes).
 
 # Certificates
 
