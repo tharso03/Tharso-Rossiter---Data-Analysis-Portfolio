@@ -4,7 +4,7 @@ Hi! I'm Tharso Rossiter.
 
 This is a portfolio to show my skills in data analysis and modeling.
 
-I graduated with honous in Statistics from the  Universidade Federal de Pernambuco (UFPE), one of the best courses in Statistics in Brazil. In addition to theoretical knowledge, I also have experience in data analysis with R, Python, SQL and Power BI.
+I graduated with honous in Statistics from the  Universidade Federal de Pernambuco (UFPE), one of the best courses in Statistics in Brazil. In addition to theoretical knowledge, I also have experience in data analysis with R, Python, SQL and Power BI. At the moment, I work for a Brazilian startup named Digibee.
 
 You can view my CV [here](./CAETharsoRossiter.pdf).
 
@@ -17,6 +17,10 @@ I created the ZINARp package as part of my undergraduate thesis. The package is 
 You can read my undergraduate thesis [here](./TCCTharsoRossiter.pdf).
 
 The package is avaliable in [this repository](https://github.com/tharso03/ZINARp). You can download it in R by running the code `install.packages("ZINARp")`.
+
+## Power BI dashboards
+
+I created two dashoards as part of the assignments for completing the Microsoft Power BI Desktop for Business Intelligence. You can view them [here](https://github.com/tharso03/PowerBI).
 
 # Certificates
 
