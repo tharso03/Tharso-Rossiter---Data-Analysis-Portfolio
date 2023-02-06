@@ -16,5 +16,5 @@ You can view my CV here.
 
 # Get in touch
 
-email: tharsoaram@gmail.com \\
+email: tharsoaram@gmail.com \
 [LinkedIn](https://www.linkedin.com/in/tharso-rossiter-a03948197/)
