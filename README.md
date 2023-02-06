@@ -1,4 +1,4 @@
-# Tharso Rossiter Data Analysis Portfolio
+# Tharso Rossiter - Data Analysis Portfolio
 
 Hi! I'm Tharso Rossiter.
 
@@ -12,7 +12,11 @@ You can view my CV [here](./CAETharsoRossiter.pdf).
 
 ## ZINARp R package
 
-I created the ZINARp package as part of my undergraduate thesis.
+I created the ZINARp package as part of my undergraduate thesis. The package is used to model zero-inflated and integer-valued time series unser a bayesian perspective using the ZINAR(p) model, as proposed by Garay et al in the article [Bayesian analysis of the p-order integer-valued AR process with zero-inflated Poisson innovations](https://www.tandfonline.com/doi/abs/10.1080/00949655.2020.1754819).
+
+You can read my undergraduate thesis [here](./TCCTharsoRossiter.pdf).
+
+The package is avaliable in [this repository](https://github.com/tharso03/ZINARp). You can download it in R by running the code `install.packages("ZINARp")`.
 
 # Certificates
 
