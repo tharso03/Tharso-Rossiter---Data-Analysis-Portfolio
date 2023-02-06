@@ -12,6 +12,8 @@ You can view my CV [here](./CAETharsoRossiter.pdf).
 
 ## ZINARp R package
 
+I created the ZINARp package as part of my undergraduate thesis.
+
 # Certificates
 
 * [The Complete SQL Bootcamp: Go from Zero to Hero](ude.my/UC-902e8147-e35b-420c-b5db-26bf03014cb5)
