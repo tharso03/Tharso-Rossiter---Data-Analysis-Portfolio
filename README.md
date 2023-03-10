@@ -4,7 +4,7 @@ Hi! I'm Tharso Rossiter.
 
 This is a portfolio to show my skills in data analysis and modeling.
 
-I graduated with honous in Statistics from the  Universidade Federal de Pernambuco (UFPE), one of the best courses in Statistics in Brazil. During my studies I worked as a teaching assistant and as a researcher in the field of bayesian inference.
+I graduated with honous in Statistics from the  Universidade Federal de Pernambuco (UFPE), one of the best courses in Statistics in Brazil. During my studies I worked as a teaching assistant and as a researcher in the field of bayesian inference. My graduation thesis is available as a PDF file in this repo (in Portuguese).
 
 I was also an intern on a project where we developed dashboards to analyze pension funds.
 
